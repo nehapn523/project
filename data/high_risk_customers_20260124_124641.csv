@@ -1,5 +1,0 @@
-Age,Income,EmploymentType,ResidenceType,CreditScore,LoanAmount,LoanTerm,PreviousDefault,PredictedRisk
-41,46000,0,1,590,52000,60,1,High Risk
-47,52000,1,1,640,45000,60,1,High Risk
-54,40000,1,1,570,55000,60,1,High Risk
-45,51000,0,1,635,42000,48,1,High Risk
