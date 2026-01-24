@@ -1,0 +1,11 @@
+Age,Income,EmploymentType,ResidenceType,CreditScore,LoanAmount,LoanTerm,PreviousDefault
+22,28000,Salaried,Rented,610,15000,48,No
+35,55000,Salaried,Owned,720,20000,36,No
+60,90000,Self-employed,Owned,760,25000,24,No
+40,1000000,Self-employed,Owned,760,50000,60,No
+29,65000,Salaried,Owned,700,18000,36,No
+55,38000,Self-employed,Rented,560,60000,60,Yes
+31,72000,Salaried,Owned,740,22000,24,No
+45,50000,Self-employed,Rented,630,40000,48,No
+26,30000,Salaried,Rented,600,17000,36,No
+60,85000,Self-employed,Owned,780,30000,24,No
